@@ -6,7 +6,7 @@ public class insert {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/Quiz";
         String user = "root";
-        String pass = "Kanha@123";
+        String pass = "Akhilesh@034";
         String sql = "INSERT INTO QB_table " +
              "(S_no,Questions, Option_A, Option_B, Option_C, Option_D, Answer) " +
              "VALUES (?, ?, ?, ?, ?, ?, ?)";
