@@ -9,7 +9,7 @@ public class read {
 
         String url = "jdbc:mysql://localhost:3306/Quiz";
         String user = "root";
-        String pass = "Kanha@123";
+        String pass = "Akhilesh@034";
         try{
          Class.forName("com.mysql.cj.jdbc.Driver");
          Connection con = DriverManager.getConnection(url, user, pass);
