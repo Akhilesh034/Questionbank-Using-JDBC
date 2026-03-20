@@ -6,7 +6,7 @@ public class update {
 
         String url = "jdbc:mysql://localhost:3306/Quiz";
         String user = "root";
-        String pass = "Kanha@123";
+        String pass = "Akhilesh@034";
 
         String sql = "UPDATE QB_table SET Answer = ? WHERE S_No = ?";
 
