@@ -6,7 +6,7 @@ public class delete {
 
         String url = "jdbc:mysql://localhost:3306/Quiz";
         String user = "root";
-        String pass = "Kanha@123";
+        String pass = "Akhilesh@034";
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the s.no of the question to delete:");
